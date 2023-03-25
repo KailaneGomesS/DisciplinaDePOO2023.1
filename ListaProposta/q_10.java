@@ -8,7 +8,7 @@ public class q_10 {
 		 Scanner sc = new Scanner(System.in);
 		 double lado = 0.0;
 		 System.out.println("Digite o comprimento do lado do quadrado: ");
-		 lado = sc.nextInt();
+		 lado = sc.nextDouble();
 		 double area = lado * lado;
 		 System.out.println("A área do quadrado é: " + area);
 
