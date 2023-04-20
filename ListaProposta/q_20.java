@@ -1,4 +1,4 @@
-package testets;
+package br.edu.principal;
 
 import java.util.Scanner;
 
